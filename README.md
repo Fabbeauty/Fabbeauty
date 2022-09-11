@@ -1,1 +1,1 @@
-My first repo!
+My personal repository!
